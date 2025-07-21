@@ -1,0 +1,77 @@
+# ========== Unity Specific ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# ========== Unity Generated ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# ========== Unity Cache ==========
+*.ilk
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+.vs/
+
+# ========== Crash Reports ==========
+sysinfo.txt
+
+# ========== OS / Tooling ==========
+.DS_Store
+*.swp
+*.swo
+*.orig
+*.bak
+*.tmp
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ========== Rider / VSCode ==========
+.idea/
+.vscode/
+*.code-workspace
+
+# ========== Unity Asset Store Cache ==========
+Assets/AssetStoreTools*
+
+# ========== Avoid accidentally committing large binaries ==========
+*.fbx
+*.obj
+*.blend
+*.stl
+*.dae
+*.3ds
+*.ply
+*.gltf
+*.glb
+*.usd
+*.usdz
+*.abc
+*.vox
+*.c4d
+*.max
+*.ma
+*.mb
+*.bgeo
+*.bgeo.sc
+
+# Let Git LFS handle those (declared in .gitattributes)
+
